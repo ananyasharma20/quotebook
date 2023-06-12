@@ -1,5 +1,6 @@
 Strength through Struggle
 
-
+testing for git diff command
 I like Blue
 
+best way to predict the future is to see what happens
